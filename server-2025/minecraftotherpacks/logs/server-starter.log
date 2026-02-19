@@ -1,0 +1,24 @@
+[07:37:22] [F-S-S/INFO] -----------------------------------------------
+[07:37:22] [F-S-S/INFO] FORGE-Server-Starter
+[07:37:22] [F-S-S/INFO] Now support MinecraftForge and NeoForged
+[07:37:22] [F-S-S/INFO] 
+[07:37:22] [F-S-S/INFO] By HellBz.de
+[07:37:22] [F-S-S/INFO] 
+[07:37:22] [F-S-S/INFO] -----------------------------------------------
+[07:37:22] [F-S-S/INFO] Checking System ...
+[07:37:22] [F-S-S/INFO] Checking Internet... Connected to the Web.
+[07:37:23] [F-S-S/INFO] ----------------------------------------------------------------
+[07:37:23] [F-S-S/INFO] You have the latest version of F-S-S, with: 3.5.7
+[07:37:23] [F-S-S/INFO] Latest Update if from: 2024-04-17T02:09:46.000+02:00 on GitHub.
+[07:37:23] [F-S-S/INFO] You find all Versions there:
+[07:37:23] [F-S-S/INFO] https://www.curseforge.com/minecraft/mc-mods/forge-server-starter
+[07:37:23] [F-S-S/INFO] ----------------------------------------------------------------
+[07:37:23] [F-S-S/INFO] Found Minecraft: 1.21.1 with NeoForge-Version: 21.1.216
+[07:37:23] [F-S-S/INFO] Building Startup-Parameter ...
+[07:37:23] [F-S-S/INFO] Eula-File is already accepted.
+[07:37:23] [F-S-S/INFO] 
+[07:37:23] [F-S-S/INFO] Server is Running in TimeZone: UTC
+[07:37:23] [F-S-S/INFO] Setup your own timezone in server_starter.conf
+[07:37:23] [F-S-S/INFO] 
+[07:37:23] [F-S-S/INFO] Start NeoForge 21.1.216 Server
+[07:37:23] [F-S-S/INFO] -----------------------------------------------

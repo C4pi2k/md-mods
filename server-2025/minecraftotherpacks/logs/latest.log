@@ -1,0 +1,489 @@
+[17Feb2026 07:37:24.506] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.neoForgeVersion, 21.1.216, --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430, nogui]
+[17Feb2026 07:37:24.508] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Azul Systems, Inc. OpenJDK 64-Bit Server VM 21.0.10+7-LTS
+[17Feb2026 07:37:24.509] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.10 by Azul Systems, Inc.; OS Linux arch amd64 version 5.8.15-301.fc33.x86_64
+[17Feb2026 07:37:24.648] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[17Feb2026 07:37:24.685] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/mnt/minecraftotherpacks/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2373!/ Service=ModLauncher Env=SERVER
+[17Feb2026 07:37:24.851] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.1-20240808.144430-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.1.216:server]
+[17Feb2026 07:37:24.867] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.216-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries/net/neoforged/neoforge/21.1.216/neoforge-21.1.216-universal.jar]], reader: mod manifest]
+[17Feb2026 07:37:24.873] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "accessories-neoforge-1.1.0-beta.52+1.21.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.878] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "accessories_compat_layer-neoforge-0.1.10+1.21.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.882] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "aether-1.21.1-1.5.10-neoforge.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.884] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "architectury-13.0.8-neoforge.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.886] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "artifacts-neoforge-13.1.0.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.888] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.889] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "caelus-neoforge-7.0.1+1.21.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.896] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "CarbonConfig-Neoforge-1.21-1.2.9.6.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.898] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "carryon-neoforge-1.21.1-2.2.2.11.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.900] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Chunk-Pregenerator-Neoforge-1.21-4.4.5.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.902] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cloth-config-15.0.140-neoforge.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.903] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cumulus_menus-1.21.1-2.0.8-neoforge.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.904] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "curios-neoforge-9.5.1+1.21.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.906] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "custom_nether_portals-neoforge-1.21.1-1.0.0.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.908] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "DistantHorizons-2.4.3-b-1.21.1-fabric-neoforge.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.911] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "dungeons-and-taverns-v4.4.4 [NeoForge].jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.912] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ecologics-1.21.1-2.3.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.914] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "elytraslot-neoforge-9.0.2+1.21.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.915] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "gravestone-neoforge-1.21.1-1.0.35.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.918] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "iris-neoforge-1.8.12+mc1.21.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.919] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Jade-1.21.1-NeoForge-15.10.3.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.920] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jamlib-neoforge-1.3.5+1.21.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.922] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.1-neoforge-19.25.1.332.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.924] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "justzoom_neoforge_2.1.0_MC_1.21.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.925] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "konkrete_neoforge_1.9.9_MC_1.21.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.927] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lithium-neoforge-0.15.1+mc1.21.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.928] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.931] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "OreExcavation-NeoForge-1.21.1-1.16.43.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.934] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.935] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "platform-neoforge-1.21.1-1.2.11.3.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.936] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "rightclickharvest-neoforge-4.6.0+1.21.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.937] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "shulkerboxtooltip-neoforge-5.1.8+1.21.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.938] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sit-1.21.1-1.4.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.940] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sodium-neoforge-0.6.13+mc1.21.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.946] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "vanillabackport-neoforge-1.21.1-1.1.5.1.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:24.949] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Xaeros_Minimap_25.2.10_NeoForge_1.21.jar" [locator: {mods folder locator at /mnt/minecraftotherpacks/mods}, reader: mod manifest]
+[17Feb2026 07:37:25.256] [main/WARN] [net.neoforged.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: accessories. Using Mod File: /mnt/minecraftotherpacks/mods/accessories-neoforge-1.1.0-beta.52+1.21.1.jar
+[17Feb2026 07:37:25.256] [main/WARN] [net.neoforged.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cumulus_menus. Using Mod File: /mnt/minecraftotherpacks/mods/cumulus_menus-1.21.1-2.0.8-neoforge.jar
+[17Feb2026 07:37:25.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 44 dependencies adding them to mods collection
+[17Feb2026 07:37:25.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.5.0.jar" [parent: neoforge-21.1.216-universal.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-fixes-worldgen-threading-issues-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "gson-0.1.5.1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar]
+[17Feb2026 07:37:25.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-threading-lighting-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-renderer-api-v1-3.4.0+acb05a3919.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-api-base-0.4.42+d1308dedd1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-fixes-chunkio-threading-issues-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jankson-0.1.5.1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar]
+[17Feb2026 07:37:25.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-client-uncapvd-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.216.jar" [parent: neoforge-21.1.216-universal.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-rewrites-chunk-serializer-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinsquared-neoforge-0.3.4.jar" [parent: accessories_compat_layer-neoforge-0.1.10+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-server-utils-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "Primitive Collections-0.8.9.jar" [parent: CarbonConfig-Neoforge-1.21-1.2.9.6.1.jar, locator: jarinjar]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "MixinSquared-0.3.4.jar" [parent: mixinsquared-neoforge-0.3.4.jar, locator: jarinjar]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jcpp-1.4.14.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-opts-natives-math-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-opts-dfc-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-fixes-general-threading-issues-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "netty-0.1.4.1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "endec-0.1.8.1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-notickvd-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "glsl-transformer-2.0.1.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar" [parent: sodium-neoforge-0.6.13+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jctools-core-4.0.5.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-opts-worldgen-general-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-opts-chunkio-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.caffeinemc.sodium-neoforge-0.6.13+mc1.21.1-service.jar" [parent: sodium-neoforge-0.6.13+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-opts-math-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-rewrites-chunk-system-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "rxjava-3.1.12.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "reactive-streams-1.0.4.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar" [parent: sodium-neoforge-0.6.13+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "nitrogen_internals-1.21.1-1.1.25-neoforge.jar" [parent: aether-1.21.1-1.5.10-neoforge.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-base-mc1.21.1-0.3.0+alpha.0.88-all.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-rewrites-chunkio-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-opts-worldgen-vanilla-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-fixes-worldgen-vanilla-bugs-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "expandability-neoforge-12.0.0.jar" [parent: artifacts-neoforge-13.1.0.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-opts-scheduling-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "c2me-opts-allocs-mc1.21.1-0.3.0+alpha.0.88.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar, reader: mod manifest]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "asyncutil-0.1.0.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "exp4j-0.4.8.jar" [parent: c2me-neoforge-mc1.21.1-0.3.0+alpha.0.88.jar, locator: jarinjar]
+[17Feb2026 07:37:25.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jankson-1.2.3.jar" [parent: jamlib-neoforge-1.3.5+1.21.1.jar, locator: jarinjar]
+[17Feb2026 07:37:25.260] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Accessories 1.1.0-beta.52+1.21.1 (accessories)
+		Accessories Compatibility Layer 0.1.10 (accessories_compat_layer)
+		Architectury 13.0.8 (architectury)
+		Artifacts 13.1.0 (artifacts)
+		Caelus API 7.0.1+1.21.1 (caelus)
+		Carbon Config Library 0.0NONE (carbonconfig)
+		Carry On 2.2.2 (carryon)
+		Chunk Pregenerator 1.21-4.4.5.1 (chunkpregen)
+		Cloth Config v15 API 15.0.140 (cloth_config)
+		Concurrent Chunk Management Engine 0.3.0+alpha.0.88+1.21.1 (c2me)
+		Concurrent Chunk Management Engine (Base) 0.3.0+alpha.0.88+1.21.1 (c2me_base)
+		Concurrent Chunk Management Engine (Client/Uncap View Distance) 0.3.0+alpha.0.88+1.21.1 (c2me_client_uncapvd)
+		Concurrent Chunk Management Engine (Fixes/Chunk IO/Threading Issues) 0.3.0+alpha.0.88+1.21.1 (c2me_fixes_chunkio_threading_issues)
+		Concurrent Chunk Management Engine (Fixes/General/Threading Issues) 0.3.0+alpha.0.88+1.21.1 (c2me_fixes_general_threading_issues)
+		Concurrent Chunk Management Engine (Fixes/WorldGen/Threading Issues) 0.3.0+alpha.0.88+1.21.1 (c2me_fixes_worldgen_threading_issues)
+		Concurrent Chunk Management Engine (Fixes/WorldGen/Vanilla Bugs) 0.3.0+alpha.0.88+1.21.1 (c2me_fixes_worldgen_vanilla_bugs)
+		Concurrent Chunk Management Engine (No Tick View Distance) 0.3.0+alpha.0.88+1.21.1 (c2me_notickvd)
+		Concurrent Chunk Management Engine (Optimizations/Chunk IO) 0.3.0+alpha.0.88+1.21.1 (c2me_opts_chunkio)
+		Concurrent Chunk Management Engine (Optimizations/Density Function Compiler) 0.3.0+alpha.0.88+1.21.1 (c2me_opts_dfc)
+		Concurrent Chunk Management Engine (Optimizations/General WorldGen) 0.3.0+alpha.0.88+1.21.1 (c2me_opts_worldgen_general)
+		Concurrent Chunk Management Engine (Optimizations/Math) 0.3.0+alpha.0.88+1.21.1 (c2me_opts_math)
+		Concurrent Chunk Management Engine (Optimizations/Memory Allocations) 0.3.0+alpha.0.88+1.21.1 (c2me_opts_allocs)
+		Concurrent Chunk Management Engine (Optimizations/Natives Math) 0.3.0+alpha.0.88+1.21.1 (c2me_opts_natives_math)
+		Concurrent Chunk Management Engine (Optimizations/Scheduling) 0.3.0+alpha.0.88+1.21.1 (c2me_opts_scheduling)
+		Concurrent Chunk Management Engine (Optimizations/Vanilla WorldGen) 0.3.0+alpha.0.88+1.21.1 (c2me_opts_worldgen_vanilla)
+		Concurrent Chunk Management Engine (Rewrites/Chunk IO) 0.3.0+alpha.0.88+1.21.1 (c2me_rewrites_chunkio)
+		Concurrent Chunk Management Engine (Rewrites/Chunk Serializer) 0.3.0+alpha.0.88+1.21.1 (c2me_rewrites_chunk_serializer)
+		Concurrent Chunk Management Engine (Rewrites/Chunk System) 0.3.0+alpha.0.88+1.21.1 (c2me_rewrites_chunk_system)
+		Concurrent Chunk Management Engine (Server Utils) 0.3.0+alpha.0.88+1.21.1 (c2me_server_utils)
+		Concurrent Chunk Management Engine (Threading/Lighting) 0.3.0+alpha.0.88+1.21.1 (c2me_threading_lighting)
+		Cumulus 2.0.8 (cumulus_menus)
+		Curios API 9.5.1+1.21.1 (curios)
+		Custom Nether Portals 1.0.0 (custom_nether_portals)
+		Distant Horizons 2.4.3-b (distanthorizons)
+		Dungeons and Taverns 1-v4.4.4 (mr_dungeons_andtaverns)
+		Ecologics 2.3.1 (ecologics)
+		Elytra Slot 9.0.2+1.21.1 (elytraslot)
+		ExpandAbility 12.0.0 (expandability)
+		Forgified Fabric API Base 0.4.42+d1308dedd1 (fabric_api_base)
+		Forgified Fabric BlockView API (v2) 1.0.10+9afaaf8c19 (fabric_block_view_api_v2)
+		Forgified Fabric Renderer API (v1) 3.4.0+acb05a3919 (fabric_renderer_api_v1)
+		Forgified Fabric Rendering Data Attachment (v1) 0.3.48+73761d2e19 (fabric_rendering_data_attachment_v1)
+		Gravestone Mod 1.21.1-1.0.35 (gravestone)
+		Iris 1.8.12-snapshot+mc1.21.1-local (iris)
+		Jade 15.10.3+neoforge (jade)
+		JamLib 1.3.5+1.21.1 (jamlib)
+		Just Enough Items 19.25.1.332 (jei)
+		Just Zoom 2.1.0 (justzoom)
+		Konkrete 1.9.9 (konkrete)
+		Lithium 0.15.1+mc1.21.1 (lithium)
+		Minecraft 1.21.1 (minecraft)
+		NeoForge 21.1.216 (neoforge)
+		Nitrogen 1.1.25 (nitrogen_internals)
+		Noisium 2.3.0+mc1.21-1.21.1 (noisium)
+		OreExcavation 1.16.43 (oreexcavation)
+		oωo 0.12.15.5-beta.1+1.21 (owo)
+		Platform 1.2.11.3 (platform)
+		Right Click Harvest 4.6.0+1.21.1 (rightclickharvest)
+		ShulkerBoxTooltip 5.1.8+1.21.1 (shulkerboxtooltip)
+		Sit 1.4 (sit)
+		Sodium 0.6.13+mc1.21.1 (sodium)
+		The Aether 1.5.10 (aether)
+		VanillaBackport 1.1.5.1 (vanillabackport)
+		Xaero's Minimap 25.2.10 (xaerominimap)
+[17Feb2026 07:37:25.504] [main/INFO] [net.neoforged.fml.loading.FMLServiceProvider/CORE]: Loading coremod script-engine for [xaerominimap]
+[17Feb2026 07:37:26.201] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[17Feb2026 07:37:26.247] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[17Feb2026 07:37:26.268] [main/WARN] [mixin/]: Reference map 'elytraslot.refmap.json' for elytraslot-integrations.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.324] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[17Feb2026 07:37:26.345] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.threading.lighting.mixin
+[17Feb2026 07:37:26.347] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[17Feb2026 07:37:26.348] [main/INFO] [C2ME Modules Manager/]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[17Feb2026 07:37:26.350] [main/WARN] [mixin/]: Reference map 'aether.refmap.json' for aether.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.366] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[17Feb2026 07:37:26.366] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[17Feb2026 07:37:26.366] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[17Feb2026 07:37:26.366] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[17Feb2026 07:37:26.367] [main/INFO] [Lithium/]: Loaded configuration file for Lithium: 147 options available, 0 override(s) found
+[17Feb2026 07:37:26.369] [main/WARN] [mixin/]: Reference map '' for accessories_compat_layer-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.370] [main/WARN] [mixin/]: Reference map '' for accessories_compat_layer-trinkets.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.371] [main/WARN] [mixin/]: Reference map '' for accessories_compat_layer-curios.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.371] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.natives_math.mixin
+[17Feb2026 07:37:26.376] [main/WARN] [C2ME Modules Manager/]: Disabling com.ishland.c2me.opts.natives_math.mixin due to incompatible Java version, see debug logs for details
+[17Feb2026 07:37:26.376] [main/INFO] [C2ME Modules Manager/]: Disabling com.ishland.c2me.opts.natives_math.mixin
+[17Feb2026 07:37:26.377] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[17Feb2026 07:37:26.379] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.379] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.fantastic.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.380] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.380] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for iris-batched-entity-rendering.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.380] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.381] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.math.mixin
+[17Feb2026 07:37:26.382] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[17Feb2026 07:37:26.389] [main/INFO] [Sodium/]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
+[17Feb2026 07:37:26.390] [main/WARN] [mixin/]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.391] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.base.mixin
+[17Feb2026 07:37:26.417] [main/INFO] [C2ME Config System/]: Global Executor Parallelism: 24 configured, 24 evaluated, 24 default evaluated
+[17Feb2026 07:37:26.419] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[17Feb2026 07:37:26.419] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[17Feb2026 07:37:26.420] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[17Feb2026 07:37:26.423] [main/WARN] [mixin/]: Reference map 'konkrete.refmap.json' for konkrete.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.423] [main/WARN] [mixin/]: Reference map 'konkrete.refmap.json' for konkrete.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.423] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[17Feb2026 07:37:26.424] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.client.uncapvd.mixin
+[17Feb2026 07:37:26.426] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.server.utils.mixin
+[17Feb2026 07:37:26.427] [main/WARN] [mixin/]: Reference map 'custom_nether_portals.refmap.json' for custom_nether_portals.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.427] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.dfc.mixin
+[17Feb2026 07:37:26.427] [main/INFO] [C2ME Modules Manager/]: Disabling com.ishland.c2me.opts.dfc.mixin
+[17Feb2026 07:37:26.427] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.428] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.429] [main/WARN] [mixin/]: Reference map 'xaerominimap.refmap.json' for xaerohud.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.429] [main/WARN] [mixin/]: Reference map 'xaerominimap.refmap.json' for xaerominimap.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.429] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.notickvd.mixin
+[17Feb2026 07:37:26.442] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[17Feb2026 07:37:26.442] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[17Feb2026 07:37:26.445] [main/WARN] [mixin/]: Reference map '' for accessories-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.445] [main/WARN] [mixin/]: Reference map '' for accessories-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.446] [main/WARN] [mixin/]: Reference map 'cumulus_menus.refmap.json' for cumulus_menus.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.446] [main/WARN] [mixin/]: Reference map 'cumulus_menus.refmap.json' for cumulus_menus.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.448] [main/WARN] [mixin/]: Reference map 'justzoom.refmap.json' for justzoom.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.448] [main/WARN] [mixin/]: Reference map 'justzoom.refmap.json' for justzoom.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.448] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.448] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[17Feb2026 07:37:26.450] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.allocs.mixin
+[17Feb2026 07:37:26.451] [main/WARN] [mixin/]: Reference map 'mixins.chunkpregen.refmap.json' for chunkpregen.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Feb2026 07:37:26.577] [main/WARN] [mixin/]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca.spottedleaf.starlight.common.thread.SchedulingUtil)
+[17Feb2026 07:37:27.021] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/OptionInstance (java.lang.ClassNotFoundException: net.minecraft.client.OptionInstance)
+[17Feb2026 07:37:27.021] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.OptionInstance was not found c2me-client-uncapvd.mixins.json:ISimpleOption from mod c2me_client_uncapvd
+[17Feb2026 07:37:27.023] [main/ERROR] [net.neoforged.fml.common.asm.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Options for invalid dist DEDICATED_SERVER
+[17Feb2026 07:37:27.024] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/Options (java.lang.RuntimeException: Attempted to load class net/minecraft/client/Options for invalid dist DEDICATED_SERVER)
+[17Feb2026 07:37:27.024] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.Options was not found c2me-client-uncapvd.mixins.json:MixinGameOptions from mod c2me_client_uncapvd
+[17Feb2026 07:37:27.025] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.gui.SodiumGameOptionPages)
+[17Feb2026 07:37:27.025] [main/WARN] [mixin/]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net.caffeinemc.sodium.config.user.UserConfigCategories)
+[17Feb2026 07:37:27.027] [main/WARN] [mixin/]: Error loading class: net/vulkanmod/config/option/Options (java.lang.ClassNotFoundException: net.vulkanmod.config.option.Options)
+[17Feb2026 07:37:27.031] [main/ERROR] [net.neoforged.fml.common.asm.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/entity/ItemRenderer for invalid dist DEDICATED_SERVER
+[17Feb2026 07:37:27.032] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/ItemRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/entity/ItemRenderer for invalid dist DEDICATED_SERVER)
+[17Feb2026 07:37:27.032] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.ItemRenderer was not found platform-common.mixins.json:access.ItemRendererAccessor from mod platform
+[17Feb2026 07:37:27.194] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.gui.SodiumGameOptionPages)
+[17Feb2026 07:37:27.195] [main/WARN] [mixin/]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net.caffeinemc.sodium.config.user.UserConfigCategories)
+[17Feb2026 07:37:27.196] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.gui.SodiumGameOptionPages)
+[17Feb2026 07:37:27.196] [main/WARN] [mixin/]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net.caffeinemc.sodium.config.user.UserConfigCategories)
+[17Feb2026 07:37:27.307] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[17Feb2026 07:37:28.084] [main/WARN] [mixinsquared-canceller/]: Cancelled mixin top.theillusivec4.curios.mixin.core.MixinLivingEntity. Check debug logs for more information.
+[17Feb2026 07:37:28.633] [main/WARN] [mixinsquared-canceller/]: Cancelled mixin top.theillusivec4.curios.mixin.core.MixinPowderSnowBlock. Check debug logs for more information.
+[17Feb2026 07:37:31.151] [main/WARN] [mixinsquared-canceller/]: Cancelled mixin top.theillusivec4.curios.mixin.core.MixinInventory. Check debug logs for more information.
+[17Feb2026 07:37:31.253] [main/WARN] [mixinsquared-canceller/]: Cancelled mixin top.theillusivec4.curios.mixin.core.MixinEnchantedCountIncreaseFunction. Check debug logs for more information.
+[17Feb2026 07:37:31.272] [main/WARN] [mixinsquared-canceller/]: Cancelled mixin top.theillusivec4.curios.mixin.core.MixinApplyBonusCount. Check debug logs for more information.
+[17Feb2026 07:37:31.893] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
+[17Feb2026 07:37:31.893] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[17Feb2026 07:37:31.895] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[17Feb2026 07:37:31.896] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Loading v1.9.9 in server-side mode on NEOFORGE!
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: ---------------------------
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Open Imaging Copyright © 2014 Dhyan Blum.
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Open Imaging is licensed under Apache-2.0.
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: JsonPath Copyright © 2017 Jayway.
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: JsonPath is licensed under Apache-2.0.
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Json-smart Copyright © netplex.
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Json-smart is licensed under Apache-2.0.
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Exp4j Copyright © Frank Asseg.
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: ---------------------------
+[17Feb2026 07:37:31.897] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side modules initialized and ready to use!
+[17Feb2026 07:37:31.901] [modloading-worker-0/INFO] [owo/]: Its called Unobtainium until you obtain it, thats the thing
+[17Feb2026 07:37:31.914] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.216, for MC 1.21.1
+[17Feb2026 07:37:31.957] [modloading-worker-0/INFO] [JamLib/]: Initializing JamLib on NeoForge
+[17Feb2026 07:37:31.991] [modloading-worker-0/INFO] [JamLib/]: Updated config file at /mnt/minecraftotherpacks/config/rightclickharvest.json5
+[17Feb2026 07:37:31.991] [modloading-worker-0/INFO] [Right Click Harvest/]: Initializing Right Click Harvest on NEOFORGE
+[17Feb2026 07:37:32.012] [modloading-worker-0/INFO] [accessories_compat_layer/]: Setting up compat modules for Accessories!
+[17Feb2026 07:37:32.012] [modloading-worker-0/INFO] [Chunk Pregenerator/]: Loading Plugin: [name=JourneyMap]
+[17Feb2026 07:37:32.792] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[17Feb2026 07:37:32.793] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Initializing Distant Horizons server, firing DhApiBeforeDhInitEvent event...
+[17Feb2026 07:37:32.802] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.Initializer/]: Running library validation...
+[17Feb2026 07:37:32.810] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.21.1-develop/update.json
+[17Feb2026 07:37:32.905] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.Initializer/]: Garbage collectors: [G1 Young Generation, G1 Concurrent GC, G1 Old Generation]
+[17Feb2026 07:37:32.907] [modloading-worker-0/WARN] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.Initializer/]: Distant Horizons: G1 Garbage collector detected. 
+This garbage collector can cause FPS stuttering. 
+It's recommended to use a concurrent garbage collector 
+like ZGC (Java 21+) or Shenandoah (Java 8 through 17) for a smoother experience. 
+
+[17Feb2026 07:37:32.909] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Distant Horizons, Version: 2.4.3-b
+[17Feb2026 07:37:32.918] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Skipping mod compatibility accessor for: [optifine]
+[17Feb2026 07:37:32.919] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.dependencyInjection.ModAccessorInjector/]: Registered mod compatibility accessor for: [c2me].
+[17Feb2026 07:37:32.919] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.dependencyInjection.ModAccessorInjector/]: Registered mod compatibility accessor for: [iris].
+[17Feb2026 07:37:32.919] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Distant Horizons server Initialized, adding event subscribers...
+[17Feb2026 07:37:32.921] [modloading-sync-worker/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[17Feb2026 07:37:32.997] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from com.aetherteam.aether.integration.jade.AetherJadePlugin
+[17Feb2026 07:37:33.004] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.vanilla.VanillaPlugin
+[17Feb2026 07:37:33.006] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.5.10 Target: null
+[17Feb2026 07:37:33.006] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/neoforge/gravestone
+[17Feb2026 07:37:33.014] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.universal.UniversalPlugin
+[17Feb2026 07:37:33.017] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.debug.DebugPlugin
+[17Feb2026 07:37:33.018] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.core.CorePlugin
+[17Feb2026 07:37:33.018] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.access.AccessibilityPlugin
+[17Feb2026 07:37:33.018] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[17Feb2026 07:37:33.040] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [gravestone] Found status: BETA Current: 1.21.1-1.0.35 Target: 1.21.1-1.0.35
+[17Feb2026 07:37:33.043] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json?neoforge=only
+[17Feb2026 07:37:33.130] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17Feb2026 07:37:33.205] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/mnt/minecraftotherpacks/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23153!/assets/.mcassetsroot' uses unexpected schema
+[17Feb2026 07:37:33.206] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/mnt/minecraftotherpacks/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23153!/data/.mcassetsroot' uses unexpected schema
+[17Feb2026 07:37:33.212] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: AHEAD Current: 1-v4.4.4 Target: null
+[17Feb2026 07:37:33.255] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack builtin/aether_accessories, loading it automatically
+[17Feb2026 07:37:34.657] [Worker-Main-3/INFO] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: All Tags to be dealt with: [accessories:belt, accessories:hand, accessories:any, accessories:hat, accessories:shoes, accessories:back, accessories:necklace, accessories:all]
+[17Feb2026 07:37:34.658] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [curios:belt] to [accessories:belt]: 
+     [#artifacts:slot/belt (from mod/artifacts)]
+[17Feb2026 07:37:34.658] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [accessories:belt] to [curios:belt]: 
+     [#artifacts:slot/belt (from mod/artifacts)]
+[17Feb2026 07:37:34.658] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [curios:hands] to [accessories:hand]: 
+     [#artifacts:slot/hands (from mod/artifacts)]
+[17Feb2026 07:37:34.658] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [accessories:hand] to [curios:hands]: 
+     [#artifacts:slot/hands (from mod/artifacts)]
+[17Feb2026 07:37:34.658] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [curios:curio] to [accessories:any]: 
+     [#artifacts:slot/all (from mod/artifacts)]
+[17Feb2026 07:37:34.658] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [accessories:any] to [curios:curio]: 
+     [#accessories:all (from mod/accessories)]
+[17Feb2026 07:37:34.658] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [curios:head] to [accessories:hat]: 
+     [#artifacts:slot/head (from mod/artifacts), #artifacts:slot/face (from mod/artifacts)]
+[17Feb2026 07:37:34.658] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [accessories:hat] to [curios:head]: 
+     [#artifacts:slot/head (from mod/artifacts), #artifacts:slot/face (from mod/artifacts), #artifacts:slot/all (from mod/artifacts)]
+[17Feb2026 07:37:34.659] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [curios:feet] to [accessories:shoes]: 
+     [#artifacts:slot/feet (from mod/artifacts)]
+[17Feb2026 07:37:34.659] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [accessories:shoes] to [curios:feet]: 
+     [#artifacts:slot/feet (from mod/artifacts)]
+[17Feb2026 07:37:34.659] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [curios:back] to [accessories:back]: 
+     [#elytraslot:elytra (from mod/elytraslot)]
+[17Feb2026 07:37:34.659] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [curios:necklace] to [accessories:necklace]: 
+     [#artifacts:slot/necklace (from mod/artifacts)]
+[17Feb2026 07:37:34.659] [Worker-Main-3/WARN] [io.wispforest.accessories_compat.api.tags.RuntimeTagModifier/]: [RuntimeTagModification] Adding Entries from [accessories:necklace] to [curios:necklace]: 
+     [#artifacts:slot/necklace (from mod/artifacts)]
+[17Feb2026 07:37:35.116] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1813 recipes
+[17Feb2026 07:37:35.302] [main/ERROR] [net.minecraft.advancements.AdvancementTree/]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[17Feb2026 07:37:35.302] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2495 advancements
+[17Feb2026 07:37:35.315] [main/INFO] [Curios API/]: Loaded 5 curio slots
+[17Feb2026 07:37:35.324] [main/INFO] [Curios API/]: Loaded 11 curio entities
+[17Feb2026 07:37:35.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[17Feb2026 07:37:35.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17Feb2026 07:37:35.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17Feb2026 07:37:35.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17Feb2026 07:37:35.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 5.83.169.7:10170
+[17Feb2026 07:37:35.823] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[17Feb2026 07:37:35.894] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.config.ConfigHandler/]: Initialising config for [DistantHorizons]
+[17Feb2026 07:37:35.933] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.config.ConfigHandler/]: [DistantHorizons] Config initialised
+[17Feb2026 07:37:35.939] [Server thread/INFO] [com.seibel.distanthorizons.core.logging.DhLogger/]: Applying config to loggers
+[17Feb2026 07:37:35.939] [Server thread/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Running Delayed setup...
+[17Feb2026 07:37:35.939] [Server thread/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Delayed setup complete, firing DhApiAfterDhInitEvent event...
+[17Feb2026 07:37:35.946] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.jar.updater.SelfUpdater/]: Checking for Distant Horizons update
+[17Feb2026 07:37:36.058] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.jar.updater.SelfUpdater/]: New version (2.4.5-b) of Distant Horizons is available
+[17Feb2026 07:37:36.059] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.jar.updater.SelfUpdater/]: Download link: https://cdn.modrinth.com/data/uCdwusMi/versions/bLPLghy9/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar
+[17Feb2026 07:37:36.059] [Server thread/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Distant Horizons server Initialized at 
+[17Feb2026 07:37:36.062] [Server thread/INFO] [com.blackgear.vanillabackport.core.VanillaBackport/]: Wolf sound variants registered: 7
+[17Feb2026 07:37:36.068] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.world.AbstractDhWorld/]: Started [DhServerWorld] of type [SERVER_ONLY].
+[17Feb2026 07:37:36.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[17Feb2026 07:37:36.110] [Server thread/INFO] [CheckedThreadLocalRandom/]: Enforcing safe world random access
+[17Feb2026 07:37:36.343] [Server thread/INFO] [TheSpeedyObjectFactory/]: Using TheSpeedyObjectFactory with Unsafe
+[17Feb2026 07:37:36.578] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}] at [[LocalSaveStructure@(./world/data)]].
+[17Feb2026 07:37:36.584] [DH-Full Data Migration Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.V2.DataMigratorV1/]: No migration necessary.
+[17Feb2026 07:37:36.590] [Server thread/INFO] [Chunk Pregenerator/]: Started Handling C2me in: minecraft:overworld
+[17Feb2026 07:37:36.591] [Server thread/INFO] [Chunk Pregenerator/]: Successfully Fixed C2me
+[17Feb2026 07:37:36.592] [Server thread/INFO] [Chunk Pregenerator/]: Successfully Fixed C2me
+[17Feb2026 07:37:36.592] [Server thread/INFO] [Chunk Pregenerator/]: Finished Handling C2me in: minecraft:overworld
+[17Feb2026 07:37:36.649] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-LOD World Gen/]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
+[17Feb2026 07:37:36.650] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: Batch Chunk Generator initialized
+[17Feb2026 07:37:36.652] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Creating world gen queue
+[17Feb2026 07:37:36.652] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Created world gen queue
+[17Feb2026 07:37:36.654] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [minecraft:overworld].
+[17Feb2026 07:37:36.786] [DH-Full Data Migration Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.V2.DataMigratorV1/]: No migration necessary.
+[17Feb2026 07:37:36.796] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Started DhServerLevel for [Wrapped{ServerLevel[world]@aether:the_aether}] at [[LocalSaveStructure@(./world/data;./world/dimensions/aether/the_aether/data)]].
+[17Feb2026 07:37:36.797] [Server thread/INFO] [Chunk Pregenerator/]: Started Handling C2me in: aether:the_aether
+[17Feb2026 07:37:36.798] [Server thread/INFO] [Chunk Pregenerator/]: Successfully Fixed C2me
+[17Feb2026 07:37:36.798] [Server thread/INFO] [Chunk Pregenerator/]: Successfully Fixed C2me
+[17Feb2026 07:37:36.798] [Server thread/INFO] [Chunk Pregenerator/]: Finished Handling C2me in: aether:the_aether
+[17Feb2026 07:37:36.807] [DH-Request Module Ticker [aether:the_aether] Thread[0]/INFO] [DistantHorizons-LOD World Gen/]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
+[17Feb2026 07:37:36.807] [DH-Request Module Ticker [aether:the_aether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: Batch Chunk Generator initialized
+[17Feb2026 07:37:36.807] [DH-Request Module Ticker [aether:the_aether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Creating world gen queue
+[17Feb2026 07:37:36.807] [DH-Request Module Ticker [aether:the_aether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Created world gen queue
+[17Feb2026 07:37:36.807] [DH-Request Module Ticker [aether:the_aether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [aether:the_aether].
+[17Feb2026 07:37:36.876] [DH-Full Data Migration Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.V2.DataMigratorV1/]: No migration necessary.
+[17Feb2026 07:37:36.882] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}] at [[LocalSaveStructure@(./world/data;./world/dimensions/aether/the_aether/data;./world/DIM1/data)]].
+[17Feb2026 07:37:36.882] [Server thread/INFO] [Chunk Pregenerator/]: Started Handling C2me in: minecraft:the_end
+[17Feb2026 07:37:36.883] [Server thread/INFO] [Chunk Pregenerator/]: Successfully Fixed C2me
+[17Feb2026 07:37:36.883] [Server thread/INFO] [Chunk Pregenerator/]: Successfully Fixed C2me
+[17Feb2026 07:37:36.883] [Server thread/INFO] [Chunk Pregenerator/]: Finished Handling C2me in: minecraft:the_end
+[17Feb2026 07:37:36.897] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-LOD World Gen/]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
+[17Feb2026 07:37:36.897] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: Batch Chunk Generator initialized
+[17Feb2026 07:37:36.897] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Creating world gen queue
+[17Feb2026 07:37:36.897] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Created world gen queue
+[17Feb2026 07:37:36.898] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [minecraft:the_end].
+[17Feb2026 07:37:37.220] [DH-Full Data Migration Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.V2.DataMigratorV1/]: No migration necessary.
+[17Feb2026 07:37:37.226] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}] at [[LocalSaveStructure@(./world/data;./world/dimensions/aether/the_aether/data;./world/DIM-1/data;./world/DIM1/data)]].
+[17Feb2026 07:37:37.227] [Server thread/INFO] [Chunk Pregenerator/]: Started Handling C2me in: minecraft:the_nether
+[17Feb2026 07:37:37.227] [Server thread/INFO] [Chunk Pregenerator/]: Successfully Fixed C2me
+[17Feb2026 07:37:37.227] [Server thread/INFO] [Chunk Pregenerator/]: Successfully Fixed C2me
+[17Feb2026 07:37:37.227] [Server thread/INFO] [Chunk Pregenerator/]: Finished Handling C2me in: minecraft:the_nether
+[17Feb2026 07:37:37.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17Feb2026 07:37:37.244] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-LOD World Gen/]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
+[17Feb2026 07:37:37.244] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: Batch Chunk Generator initialized
+[17Feb2026 07:37:37.244] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Creating world gen queue
+[17Feb2026 07:37:37.244] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Created world gen queue
+[17Feb2026 07:37:37.244] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [minecraft:the_nether].
+[17Feb2026 07:37:37.462] [c2me-worker-17/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Feb2026 07:37:37.730] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[17Feb2026 07:37:37.865] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 636 ms
+[17Feb2026 07:37:37.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.013s)! For help, type "help"
+[17Feb2026 07:37:37.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting GS4 status listener
+[17Feb2026 07:37:37.871] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener started
+[17Feb2026 07:37:37.871] [Query Listener #1/INFO] [net.minecraft.server.rcon.thread.QueryThreadGs4/]: Query running on 5.83.169.7:10171
+[17Feb2026 07:37:38.036] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[17Feb2026 07:37:38.043] [Server thread/INFO] [Chunk Pregenerator/]: Upgraded Server Watchdog time from 1 Minute to 10 Minutes to ensure Heavy ModPacks do not crash due to lag
+[17Feb2026 07:48:43.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 07:48:43.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 08:03:45.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 08:03:45.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 08:18:45.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 08:18:45.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 08:33:46.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 08:33:46.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 08:48:48.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 08:48:48.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 09:03:48.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 09:03:48.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 09:18:50.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 09:18:50.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 09:33:51.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 09:33:51.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 09:48:52.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 09:48:52.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 10:03:57.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 10:03:57.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 10:18:56.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 10:18:56.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 10:33:59.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 10:33:59.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 10:49:01.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 10:49:01.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 11:04:03.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 11:04:03.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 11:19:05.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 11:19:05.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 11:34:06.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 11:34:06.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 11:49:05.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 11:49:05.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 12:04:05.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 12:04:05.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 12:19:06.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 12:19:06.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 12:34:07.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 12:34:07.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 12:49:08.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 12:49:08.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 13:04:09.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 13:04:09.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 13:19:10.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 13:19:10.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 13:34:11.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 13:34:11.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 13:49:13.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 13:49:13.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 14:04:14.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 14:04:14.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 14:19:15.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 14:19:15.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 14:34:16.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 14:34:16.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 14:49:18.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 14:49:18.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 15:04:20.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 15:04:21.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 15:19:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 15:19:20.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 15:34:20.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 15:34:20.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 15:49:20.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 15:49:20.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 16:04:31.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 16:04:31.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 16:19:23.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 16:19:23.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 16:34:24.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 16:34:24.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 16:49:26.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 16:49:26.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 17:04:27.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 17:04:27.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 17:19:28.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 17:19:28.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 17:34:29.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 17:34:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 17:49:30.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 17:49:30.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[17Feb2026 18:04:32.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[17Feb2026 18:04:32.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
